@@ -1,4 +1,4 @@
-# Topic-Modeling-Keyword-Time-Series-Analysis-and-Sentimental-Analysis-Using-Hotel-Review-Data
+Topic-Modeling-Keyword-Time-Series-Analysis-and-Sentimental-Analysis-Using-Hotel-Review-Data
 
 
 ## 호텔 리뷰 데이터를 활용한 **토픽별 키워드 시계열 분석과 감성분석 : 저가형 호텔의 향후 경쟁력 강화 제안**
